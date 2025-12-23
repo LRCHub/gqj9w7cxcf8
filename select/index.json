@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カルチャーショッカー",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-23T04:52:27.284879Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カルチャーショッカー",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_カルチャーショッカー_sumika.txt"
+    }
+  ]
+}
